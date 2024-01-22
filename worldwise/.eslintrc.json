@@ -1,0 +1,10 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "no-unused-vars": [
+      "off",
+      { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }
+    ],
+    "react/prop-types": "off"
+  }
+}

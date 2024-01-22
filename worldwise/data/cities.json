@@ -1,0 +1,114 @@
+{
+  "cities": [
+    {
+      "cityName": "Bellevigne-en-Layon",
+      "country": "France",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/fr.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-11-20T14:43:48.515Z",
+      "notes": "asfdasdf",
+      "position": {
+        "lat": "47.279229002570844",
+        "lng": "-0.48339843750000006"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Chennai",
+      "country": "India",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/in.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-11-20T14:53:05.208Z",
+      "notes": "vanakam da mapla",
+      "position": {
+        "lat": "13.082822414159136",
+        "lng": "80.27366638183595"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Tiruvallur",
+      "country": "India",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/in.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-11-20T15:03:35.123Z",
+      "notes": "fuck me ",
+      "position": {
+        "lat": "13.141003126359843",
+        "lng": "79.96398925781251"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Valdilecha",
+      "country": "Spain",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/es.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-11-24T02:09:43.882Z",
+      "notes": "adfadsf",
+      "position": {
+        "lat": "40.3130432088809",
+        "lng": "-3.2958984375000004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Zuera",
+      "country": "Spain",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/es.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2023-11-24T02:17:18.717Z",
+      "notes": "fasdfdsaf",
+      "position": {
+        "lat": "41.95131994679697",
+        "lng": "-0.81298828125"
+      },
+      "id": 98443206
+    }
+  ]
+}
