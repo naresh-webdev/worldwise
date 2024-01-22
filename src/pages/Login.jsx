@@ -19,7 +19,7 @@ export default function Login() {
     [isAuthenticated, navigate]
   );
 
-  const [email, setEmail] = useState("jack@example.com");
+  const [email, setEmail] = useState("test@example.com");
   const [password, setPassword] = useState("qwerty");
 
   return (
